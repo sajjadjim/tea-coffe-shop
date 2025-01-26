@@ -4,3 +4,7 @@
 *{
     font-family: "Manrope", serif;
 }
+/* hover effect give */
+.bg-img{
+    background-image: url("images/bg_cup.png");
+}
